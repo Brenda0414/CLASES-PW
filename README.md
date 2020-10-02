@@ -1,2 +1,2 @@
-# Proyecto-PW
+# PW PRACTICAS
 Practica1
