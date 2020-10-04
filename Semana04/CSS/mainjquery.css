@@ -1,0 +1,9 @@
+.brewery-block{
+    display: inline-block;
+    background: rgb(4, 4, 109) ;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+    min-height: 100px;
+    min-width: 25%;
+}
