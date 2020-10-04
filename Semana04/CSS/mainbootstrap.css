@@ -1,0 +1,8 @@
+.card{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card .card-title{
+    font-size: 15px;
+    color: violet;
+}
