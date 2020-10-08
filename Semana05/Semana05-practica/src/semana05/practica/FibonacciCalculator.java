@@ -13,16 +13,15 @@ public class FibonacciCalculator {
    
     
     public static void calculateFibonacci(int value){ 
-        String res = "";
+        String res = "1,";
         int a=0;
         int b=1;
         int sum=0;
         for (int i = 2; i <= value; i++){
             sum = a+ b;
-            res += b + ",";
             a = b;
             b = sum;
-            
+            res += sum + ",";
            
     } 
         System.out.println(res);
